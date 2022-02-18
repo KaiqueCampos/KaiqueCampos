@@ -11,7 +11,8 @@
 
 <hr/>
 
-<div>
+
+<div style="display: flex; flex-direction: row;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
        align="center" 
