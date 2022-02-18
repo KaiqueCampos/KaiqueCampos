@@ -24,7 +24,7 @@
     <img 
          style="width: 40%"
          align="center" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFj&layout=compact&theme=shades-of-purple&line_height=27&title_color=8A62DE&bg_color=21212D&&border_color=21212D"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueCampos&layout=compact&theme=shades-of-purple&line_height=27&title_color=8A62DE&bg_color=21212D&&border_color=21212D"
     />
   </a>
 </div>
